@@ -27,15 +27,7 @@ I am an Industrial Automation student at Centro WEG, passionate about bridging t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-00A98F?style=for-the-badge&logo=scrum&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoenggel&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoenggel&layout=compact&theme=radical)
-
----
+---  
 
 ### 🌍 Languages
 
