@@ -31,10 +31,9 @@ I am an Industrial Automation student at Centro WEG, passionate about bridging t
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavoenggel&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoenggel&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoenggel&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoenggel&layout=compact&theme=radical)
 
 ---
 
